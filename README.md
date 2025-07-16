@@ -51,10 +51,6 @@ JWT_SECRET=your-secret
 - Runs tests, linting, and builds on every push
 - Deploys to production on successful build
 
-### 📸 CI/CD Screenshots
-![CI/CD Pipeline Screenshot 1](path/to/your-cicd-screenshot1.png)
-![CI/CD Pipeline Screenshot 2](path/to/your-cicd-screenshot2.png)
-
 ---
 
 ## 📊 Monitoring & Maintenance
