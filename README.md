@@ -6,8 +6,8 @@ A full-featured MERN stack blog platform with user authentication, post creation
 ---
 
 ## 🌐 Deployed Applications
-- **Frontend:** [Frontend URL goes here]
-- **Backend API:** [Backend API URL goes here]
+- **Frontend:** [https://blog-platform-sigma-drab.vercel.app/]
+- **Backend API:** [https://blog-platform-s4hg.onrender.com]
 
 ---
 
